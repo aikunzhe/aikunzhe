@@ -2,8 +2,7 @@
   
 .    
    
-![Prify Philip's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=aikunzhe&hide=stars&show_icons=true]())
-
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aikunzhe&hide=stars&show_icons=true)
 
 <table>
   <tr>
