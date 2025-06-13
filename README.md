@@ -11,3 +11,9 @@
     <td><img src="https://profile-counter.glitch.me/aikunzhe-github/count.svg" alt="" /></td>
   </tr>
 </table>
+
+
+## 局域网传输：
+ 1. Snapdrop https://github.com/RobinLinus/snapdrop
+ 1. PairDrop Snapdrop 的一个分支，更注重隐私（支持局域网部署）https://github.com/schlagmichdoch/pairdrop
+ 
