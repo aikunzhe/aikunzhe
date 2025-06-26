@@ -24,5 +24,6 @@
 1. 一个高性能的算法交易平台和事件驱动的回测器 https://github.com/nautechsystems/nautilus_trader
 1. Qlib 是一个面向 AI 的量化投资平台 https://github.com/microsoft/qlib
 
-## 下载 
-- m3u8： downloader https://github.com/nilaoda/N_m3u8DL-CLI 
+## 工具
+- m3u8 downloader: https://github.com/nilaoda/N_m3u8DL-CLI
+- acme 证书续签：https://github.com/acmesh-official/acme.sh
