@@ -28,5 +28,6 @@
 - m3u8 downloader: https://github.com/nilaoda/N_m3u8DL-CLI
 - acme 证书续签：https://github.com/acmesh-official/acme.sh
 - yt-dlp（youtube-dl 分支工具 门用于下载 YouTube、Bilibili、抖音等上千个视频网站的音视频内容）：
-  -  https://github.com/marcopiovanello/yt-dlp-web-ui
-  -  https://github.com/yt-dlp/yt-dlp
+  - [ui] https://github.com/marcopiovanello/yt-dlp-web-ui
+  - [主程序] https://github.com/yt-dlp/yt-dlp
+  - [支持的网站] https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
