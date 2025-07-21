@@ -12,6 +12,8 @@
   </tr>
 </table>
 
+## 微信
+1. 小程序解码： https://github.com/biggerstar/wedecode
 
 ## 代理
 1. Shadowrocket 规则 ：https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever 
