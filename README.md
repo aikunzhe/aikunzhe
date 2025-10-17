@@ -14,6 +14,7 @@
 
 ## 微信
 1. 小程序解码： https://github.com/biggerstar/wedecode
+1. 微信自动操作 https://github.com/cluic/wxauto
 
 ## 代理
 1. Shadowrocket 规则 ：https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever 
