@@ -1,8 +1,3 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="573444ca-9759-4883-901f-2035d05b7c5e" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <a href='https://cnblogs.com/LungGiyo' data='https://aikunzhe.github.io/'>个人博客</a>
   
 
